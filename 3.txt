@@ -1,4 +1,7 @@
 Hello This is third file 2.txt 
+ 
 Hi hello how are you
 sprint-1 to master
  
+hi im in sprint-2 want to move on master 3.txt 
+>>>>>>> sprint-2
