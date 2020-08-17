@@ -1,2 +1,6 @@
 This is secoud file 2.txt 
+
+hi im in sprint-2 with 2.txt file, i want to move on master
+
 sprint-1 to master
+
